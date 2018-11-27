@@ -1,0 +1,2 @@
+// Version this separately as it's a third party image.
+ext.dockerTag = '1.0.0'
